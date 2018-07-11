@@ -1,2 +1,2 @@
-= A Component Family
+= A Components Wrapper
 
